@@ -1,4 +1,4 @@
-![ClipWindowsGIF](https://github.com/user-attachments/assets/9e70bd5e-06d7-4210-b039-3b7afd6b4b45)# CSV practice
+# CSV practice
 
 This repository contains a collection of beginner-friendly python scripts and sample datasets to practice handling CSV files.
 It is part of my journey in mastering python fundamentals for data handling and building a strong foundation for future projects.
